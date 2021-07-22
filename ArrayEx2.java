@@ -1,3 +1,8 @@
+/**
+ * Arrays.toString()을 사용하여 배열을 출력.
+ * @author user EunSu Seo
+ * last modified 2021-07-22
+ */
 import java.util.*;	// Arrays.toString()을 사용하기 위해 추가!
 
 public class ArrayEx2 {
